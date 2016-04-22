@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[calvino_abstract_art]]></title>
         <description><![CDATA[calvino_abstract_art]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/calvino_abstract_art/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Apr 2016 20:53:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 22 Apr 2016 20:56:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/calvino_abstract_art/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/766e71de-47e1-4a9c-8ae8-4e027c644f3f.png">]]></description>
+            <link>https://thegrid.ai/calvino_abstract_art/abstract-chart-2016-by-martin-calvino/index.html</link>
+            <guid isPermaLink="false">ec3cb3fe-ab21-4133-9d3f-9926011e132d</guid>
+            <pubDate>Fri, 22 Apr 2016 20:56:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Interferencia (2016). Art + code by Martin Calvino]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0525bcb0-7605-49b8-ab53-6b064cc01733.png">]]></description>
-            <link>undefinedinterferencia-2016-art-code-by-martin-calvino/index.html</link>
+            <link>https://thegrid.ai/calvino_abstract_art/interferencia-2016-art-code-by-martin-calvino/index.html</link>
             <guid isPermaLink="false">7ef9e321-d0a2-4a96-91d8-aa79371fbd9f</guid>
             <pubDate>Fri, 22 Apr 2016 20:52:22 GMT</pubDate>
         </item>
