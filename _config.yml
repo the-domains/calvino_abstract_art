@@ -1,0 +1,28 @@
+name: calvino_abstract_art
+favicon: null
+layout_spectrum: 0.01414888957515359
+typography_spectrum: 0.22254023305140436
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.29515441856347024
+  lightness: 0.6293771157506853
+  saturation: 0.5143715962767601
+  rhythmicContrast: 0.05727329081855714
+purpose: []
