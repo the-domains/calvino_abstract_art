@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[calvino_abstract_art]]></title>
+        <description><![CDATA[calvino_abstract_art]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 22 Apr 2016 20:53:01 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Interferencia (2016). Art + code by Martin Calvino]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0525bcb0-7605-49b8-ab53-6b064cc01733.png">]]></description>
+            <link>undefinedinterferencia-2016-art-code-by-martin-calvino/index.html</link>
+            <guid isPermaLink="false">7ef9e321-d0a2-4a96-91d8-aa79371fbd9f</guid>
+            <pubDate>Fri, 22 Apr 2016 20:52:22 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
